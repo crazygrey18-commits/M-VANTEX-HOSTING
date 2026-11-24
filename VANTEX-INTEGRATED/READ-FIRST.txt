@@ -1,0 +1,7 @@
+M VANTEX HOSTING — combined setup
+1. Extract the entire ZIP to a normal Windows folder.
+2. Double-click START-VANTEX.bat. Keep its window open.
+3. Visit http://127.0.0.1:3780 if the browser does not open.
+4. Create an instance and follow windows-engine/README.txt to install official FiveM artifacts and configure your own license.
+The mvantex-v2 directory is the earlier website source snapshot, not a live GitHub checkout. It is included for future integration; do not overwrite your deployed website with it blindly. Its test controls are simulated, not connected to this engine.
+No public ports should be opened for this local admin engine. Payment, customer authentication, remote node communication, isolation, txAdmin and auto provisioning are not implemented. No real FiveM or Windows execution verified here.
